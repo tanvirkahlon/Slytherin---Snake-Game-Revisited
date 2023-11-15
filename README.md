@@ -31,4 +31,4 @@ Play the Snake Game and challenge yourself to achieve the highest score! Simply 
 
 Enjoy the nostalgia and have fun!
 
-![Alt text](Screenshot 2023-11-14 184200.png)
+![image](https://Screenshot 2023-11-14 184200.png)
