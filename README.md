@@ -31,4 +31,4 @@ Play the Snake Game and challenge yourself to achieve the highest score! Simply 
 
 Enjoy the nostalgia and have fun!
 
-![Snake Game](https://Screenshot%202023-11-14%20184200.png)
+![Snake Game](https://github.com/tanvirkahlon/Slytherin---Snake-Game-Revisited/blob/426a4b6ab4e1980453415e031e59201295996f59/snakeimage.png)
