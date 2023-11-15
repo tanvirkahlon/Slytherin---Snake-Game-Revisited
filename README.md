@@ -30,3 +30,5 @@ This Snake Game is a classic implementation using HTML, CSS, and JavaScript. It 
 Play the Snake Game and challenge yourself to achieve the highest score! Simply open the HTML file in your web browser and start controlling the snake using the arrow keys.
 
 Enjoy the nostalgia and have fun!
+
+![Alt text](Screenshot 2023-11-14 184200.png)
